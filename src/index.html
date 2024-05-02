@@ -3,10 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./index.css">
     <title>Document</title>
 </head>
 <body>
-    
-    <script></script>
+    <div class="container">
+        <div class="todo-app">
+            <h2 class="todo-app__text">To-Do List <img src="./img/icon.png" alt=""></h2>
+            <div class="row">
+                <input type="text" id="input-box" placeholder="Add your text">
+                <button id="button">Add</button>
+            </div>
+            <div class="date"></div>
+            <ul id="list-container">
+            </ul>
+        </div>
+    </div>
+    <script src="./js/index.js"></script>
 </body>
 </html>
