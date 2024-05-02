@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,QACI,+DAAkE,CAClE,WAAW,CACX,YAAY,CACZ,aACJ","file":"src.e58bcccc.css","sourceRoot":"..\\src","sourcesContent":[".screen{\r\n    background: linear-gradient(#DBCDE0 33%, #DBCDE0 46%, #BC6BDE 91%);\r\n    width:414px;\r\n    height:896px;\r\n    margin: 0 auto;\r\n}"]}
